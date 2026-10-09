@@ -1,0 +1,9 @@
+
+SpeechRecognition
+PyAudio
+opencv-python
+requests
+pywhatkit
+geocoder
+pyautogui
+Pillow
