@@ -14,14 +14,14 @@
 # WHATSAPP SETUP:
 #   1. Open WhatsApp Web (web.whatsapp.com) in Chrome and stay logged in
 #   2. Set EMERGENCY_CONTACT below (include country code, no + sign)
-#      Example: "919876543210" for India (+91 98765 43210)
+#      Example: "91xxxxxxxxxx" for India (+91 xxxxx xxxxx)
 #
 # FIXES IN v5:
 #   - Location: replaced unreliable Windows GPS with geocoder (faster, always works)
 #   - WhatsApp: added pyautogui.press('enter') so message actually sends instead of saving to draft
 # ============================================================
 
-import sys
+
 
 
 from location import get_windows_gps
