@@ -22,7 +22,7 @@
 # ============================================================
 
 import sys
-sys.path.append(r"C:\Users\ajith\AppData\Local\Programs\MUEDIT~1\Python\Lib\site-packages")
+
 
 from location import get_windows_gps
 import cv2
